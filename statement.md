@@ -1,35 +1,31 @@
 # Quiz sur le Pattern Command
 
-?[Quel est le type du Pattern Command?]
+?[Quel est le type du Pattern Command ?]
 -[ ] Créateur
 -[ ] Structural
 -[x] Comportemental
 ```
 
-?[What is the answer to Life, the Universe and Everything?]
--[ ] There is no answer to that!
--[ ] Sleep and eat
--[x] Easy, this is 42
--[ ] Peace & Love
+?[Quel classe ne fait pas parti du Pattern ?]
+-[ ] Invocateur
+-[x] Ecouteur
+-[ ] Récepteur
 ```
 
-?[What is the answer to Life, the Universe and Everything?]
--[ ] There is no answer to that!
--[ ] Sleep and eat
--[x] Easy, this is 42
--[ ] Peace & Love
+?[Comment nomme t'on la méthode qui est implémentée dans toutes les Commandes concrètes ?]
+-[x] execute();
+-[ ] activate();
+-[ ] invoke();
 ```
 
-?[What is the answer to Life, the Universe and Everything?]
--[ ] There is no answer to that!
--[ ] Sleep and eat
--[x] Easy, this is 42
--[ ] Peace & Love
+?[Quel est le seul élément que l'on ne peut pas dupliquer dans une même instance ?]
+-[x] Client
+-[ ] Invocateur
+-[ ] Récepteur
 ```
 
-?[What is the answer to Life, the Universe and Everything?]
--[ ] There is no answer to that!
--[ ] Sleep and eat
--[x] Easy, this is 42
--[ ] Peace & Love
+?[Quel est la classe qui implémente une liste et qui va permettre d'ordonnancer les actions ?]
+-[ ] Invocateur
+-[ ] Commande
+-[x] Récepteur
 ```
