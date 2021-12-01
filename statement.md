@@ -1,5 +1,3 @@
-# Quiz sur le Pattern Command
-
 ?[Quel est le type du Pattern Command ?]
 -[ ] Créateur
 -[ ] Structural
