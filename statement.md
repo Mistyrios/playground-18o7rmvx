@@ -3,7 +3,7 @@
 -[ ] Structural
 -[x] Comportemental
 
-?[Quel classe ne fait pas parti du patron ?]
+?[Quelle classe ne fait pas parti du patron ?]
 -[ ] Invocateur
 -[x] Ecouteur
 -[ ] Récepteur
@@ -13,7 +13,7 @@
 -[ ] activate();
 -[ ] invoke();
 
-?[Quel est la classe qui implémente une liste et qui va permettre d'ordonnancer les actions ?]
+?[Quelle est la classe qui implémente une liste et qui va permettre d'ordonnancer les actions ?]
 -[ ] Invocateur
 -[ ] Commande
 -[x] Récepteur
