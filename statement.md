@@ -6,7 +6,7 @@
 ?[Quelle classe ne fait pas parti du patron ?]
 -[ ] Invocateur
 -[x] Ecouteur
--[ ] Récepteur
+-[ ] Récepteu
 
 ?[Comment nomme t'on la méthode qui est implémentée dans toutes les Commandes concrètes ?]
 -[x] execute();
